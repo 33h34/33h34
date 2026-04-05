@@ -15,17 +15,19 @@
   <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
 </p>
 
----
-
+--
 ### 👨‍💻 Perfil Profesional
 
 - **Software Engineer & AI Enthusiast** | Estudiante de Ingeniería de Sistemas.
 - **Backend:** Python (Django, DRF), PostgreSQL (Modelado y Seguridad).
 - **Frontend:** Next.js, React, Tailwind CSS.
 - **Data:** Machine Learning & Data Analytics en constante aprendizaje.
-- **Proyectos:** Liderando el desarrollo de "Sierra Azul" (Sistema de Gestión Integral).
+- **Proyectos:**
+  - **Sierra Azul:** Liderando el desarrollo de un Sistema de Gestión Integral.
+  - **Flash:** Súper-app híbrida (estilo Yape + Uber) con **Socket.io** para tiempo real y logística motorizada.
+  - **ChrisNet:** Plataforma social dedicada a la comunidad cristiana.
 
-💬 **Pregúntame sobre:** Arquitectura de software, despliegues en Railway, o cómo conectar un backend de Django con un frontend moderno.
+💬 **Pregúntame sobre:** Arquitectura de software, despliegues en Railway, o cómo conectar Django con Next.js.
 🌱 **Aprendiendo:** Profundizando en modelos de IA y análisis de datos avanzado.
 
 ## 🛠 &nbsp;Tech Stack
